@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Android Developer Serang](https://github.com/androidev-serang)
 
-- 📫 How to reach me **fajarajay10@gmail.com**
+- 📫 How to reach me **fajarseptian.dev0@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

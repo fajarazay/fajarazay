@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarazay" alt="fajarazay" /> </p>
 
-- 🔭 I’m currently working on Global Urban Esensial as a Software Engineer - Mobile & was involved in a project <a href="d2d.co.id">Doctor To Doctor</a>
+- 🔭 I’m currently working on Global Urban Esensial as a Software Engineer - Mobile & was involved in a project <a href="https://www.d2d.co.id/">Doctor To Doctor</a>
 
 - 🌱 I’m currently learning **Swift**
 

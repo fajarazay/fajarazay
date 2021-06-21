@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarazay" alt="fajarazay" /> </p>
 
-- 🔭 I’m currently working on Global Urban Esensial as a Software Engineer - Mobile & was involved in a project <a href="https://www.d2d.co.id/">Doctor To Doctor</a>
-
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently working at <a href="https://www.quipper.com/">Quipper</a> as a Software Engineer - Android
 
 - 👯 I’m looking to collaborate on [Android Developer Serang](https://github.com/androidev-serang)
 
-- 📫 How to reach me **fajarseptian.dev@gmail.com**
+- 📫 You can reach me by **fajarseptian.dev@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

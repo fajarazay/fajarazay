@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fajar Septian</h1>
+<h1 align="center">Hi 👋, I'm Fajar Septian <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> </h1>
 <h3 align="center">A passionate Mobile Developer from Indonesia who have got <a></>  <a href="https://www.credential.net/2b3374a8-f667-4b7d-9b7a-efc874e08e6e?key=275b85f6a9297be1b9b3979abd2b23ceea7caf36d39d3baa393d87595bf86a6f">Google Certified - Associate Android Developer in 2019</a>
 
 </h3>

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarazay" alt="fajarazay" /> </p>
 
-- 🌱 I’m currently working at <a href="https://www.quipper.com/">Quipper</a> as a Software Engineer - Android
+- 🌱 I’m currently working at <a href="https://www.kuncie.com/">Kuncie</a> as a Mobile Engineer - (Android, iOS, TV, Web App)
 
 - 👯 I’m looking to collaborate on [Android Developer Serang](https://github.com/androidev-serang)
 
